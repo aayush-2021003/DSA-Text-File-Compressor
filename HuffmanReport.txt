@@ -1,0 +1,9 @@
+Q1. Yes, I have used a min heap in my implementation. The min heap was used for extracting the two minvalues again and again.
+Q2. The size of my input file(in.txt) was 10KB and the size of the output file(out.txt) was 22KB.
+Q3. The format of the metadata is:
+f->1100
+e->1101
+c->100
+b->101
+d->111
+a->0
